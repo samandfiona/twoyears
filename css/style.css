@@ -86,14 +86,14 @@ div{
 
 .img-seven{
   grid-row: 10 / span 1;
-  grid-column: 1 / span 1;
+  grid-column: 2 / span 1;
   background: url("../anni_pics/img_seven.jpg");
   background-size: 100% 100%;
 }
 
 .img-eight{
   grid-row: 10 / span 1;
-  grid-column: 2 / span 1;
+  grid-column: 1 / span 1;
   background: url("../anni_pics/img_eight.jpg");
   background-size: 100% 100%;
 }
