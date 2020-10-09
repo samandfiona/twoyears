@@ -65,7 +65,7 @@ div{
 
 .img-four{
   grid-row: 7 / span 1;
-  grid-column: 2 / span 1;
+  grid-column: 1 / span 1;
   background: url("../anni_pics/img_four.jpg");
   background-size: 100% 100%;
 }
@@ -121,7 +121,7 @@ div{
 
 .img-twelve{
   grid-row: 7 / span 1;
-  grid-column: 1 / span 1;
+  grid-column: 2 / span 1;
   background: url("../anni_pics/img_twelve.gif");
   background-size: 100% 100%;
 }
